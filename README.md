@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript, nodejs, git and github.
 - 💞️ I'm looking to collaborate in the creation of projects and seek new friendships.
 - 📫 How to reach me ...
-- 😄 Pronouns: he / his
+- 😄 Pronouns: ele / dele
 - ⚡ Fun fact: I love anime and games
 
 <!---
