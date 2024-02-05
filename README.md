@@ -1,10 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ED908&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Welcome+ladies+and+Gentleman;I'm+19+years+old;I'm+from+Brazil;see+you+later!+:%29)](https://git.io/typing-svg)
 
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello guys</h1></summary>
+    <summary><h1 style="display: inline-block">Hello world</h1></summary>
 </div>
-
 <!-- Presentation -->
 <p>
 - 👋 Hi, I’m @xXWilliaN12Xx a student from Brazil looking for knowledge.
