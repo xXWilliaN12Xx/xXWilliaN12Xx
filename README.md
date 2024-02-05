@@ -33,7 +33,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=xXWilliaN12Xx&show_icons=true&theme=great-gatsby)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=xXWilliaN12Xx&show_icons=true&theme=chartreuse-dark)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=willian11330&cover_image=true&theme=novatorem&show_offline=false&background_color=1c1717&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -46,7 +46,7 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## 🍃 Skills 
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>All Skills</h3>
