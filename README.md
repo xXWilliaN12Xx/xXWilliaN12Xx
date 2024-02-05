@@ -7,13 +7,12 @@
 
 <!-- Presentation -->
 <p>
-- 👋 Hi, I’m @xXWilliaN12Xx
+- 👋 Hi, I’m @xXWilliaN12Xx a student from Brazil looking for knowledge.
   
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning javascript, nodejs, git and github.
 - 💞️ I'm looking to collaborate in the creation of projects and seek new friendships.
-- 📫 How to reach me ...
-- 😄 Pronouns: ele / dele
+- 😄 Pronouns: he / his
 - ⚡ Fun fact: I love anime and games
 </p>
 
