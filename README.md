@@ -42,6 +42,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [JavaScript - age identifier](https://github.com/xXWilliaN12Xx/Identificador-de-idade)
+- [JavaScript - API weather](https://github.com/xXWilliaN12Xx/API-Clima)
 
 <!-- GIF -->
 <p align="left">
