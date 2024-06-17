@@ -67,7 +67,7 @@
 
 - [![API weather](https://img.shields.io/badge/APIweather%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/API-Clima)
 
-- [![100 DAYS OF COD](https://img.shields.io/badge/AgeIdentifier%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/100DAYSOFCOD-JS)
+- [![100 DAYS OF COD](https://img.shields.io/badge/100DaysOfCod%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/100DAYSOFCOD-JS)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=120&section=footer"/>
