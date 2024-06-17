@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ED908&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Welcome+ladies+and+Gentleman;I'm+19+years+old;I'm+from+Brazil;see+you+later!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ED908&size=35&center=true&vCenter=true&width=1000&lines=Welcome+ladies+and+Gentleman;I'm+19+years+old;I'm+from+Brazil;see+you+later!+:%29)](https://git.io/typing-svg)
 
 <!-- GIF -->
 <p align="left">
@@ -66,6 +66,8 @@
 - [![age identifier](https://img.shields.io/badge/AgeIdentifier%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Identificador-de-idade)
 
 - [![API weather](https://img.shields.io/badge/APIweather%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/API-Clima)
+
+- [![100 DAYS OF COD](https://img.shields.io/badge/AgeIdentifier%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/100DAYSOFCOD-JS)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=120&section=footer"/>
