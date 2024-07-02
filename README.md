@@ -35,10 +35,10 @@
 <p>
 - 👋 Olá, sou um estudante do Brasil em busca de conhecimento.
   
-- 👀 Estou interessado em aprender programação.
+- 👀 Sou um profissional em constante evolução.
 - 🌱 Atualmente estou aprendendo javascript, nodejs, git e github.
 - 💞️ Procuro colaborar na criação de projetos e buscar novas amizades.
-- 😄 pronomes: ele/ele.
+- 😄 pronomes: ele/dele.
 - ⚡ Curiosidade: adoro animes e jogos.
 </p>
 
@@ -46,7 +46,7 @@
 <details>
 <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Sou um jovem de 19 anos que sonha em se tornar um profissional qualificado no futuro. Quero me tornar um desenvolvedor back-end e usar minhas habilidades no mundo da programação.
+  - 💬 Sou um jovem de 19 anos que está a cada dia consolidando os conhecimentos aprendidos e se fortalecendo como um profissional qualificado. Tenho o objetivo de me tornar um desenvolvedor back-end e aplicar minhas habilidades no mundo da programação.
 
   - ⚡Adoro jogos e animes e acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
 </details>
