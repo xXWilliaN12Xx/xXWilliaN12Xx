@@ -36,8 +36,8 @@
 - 👋 Olá, sou um estudante do Brasil em busca de conhecimento.
   
 - 👀 Sou um profissional em constante evolução.
-- 🌱 Atualmente estou aprendendo javascript, nodejs, git e github.
-- 💞️ Procuro colaborar na criação de projetos e buscar novas amizades.
+- 🌱 Atualmente estou aprendendo javaScript, Node.js, Oracle, Inglês, CC50.
+- 💞️ Procuro colaborar na criação de projetos, comunidades e buscar novas amizades.
 - 😄 pronomes: ele/dele.
 - ⚡ Curiosidade: adoro animes e jogos.
 </p>
