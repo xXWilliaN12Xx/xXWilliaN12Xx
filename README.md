@@ -30,7 +30,7 @@
 - 👋 Olá, sou um estudante do Brasil em busca de conhecimento.
   
 - 👀 Sou um profissional em constante evolução.
-- 🌱 Atualmente estou aprendendo javaScript, Node.js, Oracle, Inglês, CC50.
+- 🌱 Atualmente estou aprendendo javaScript, Node.js, Oracle, Inglês, express.js, MongoDB.
 - 💞️ Procuro colaborar na criação de projetos, comunidades e buscar novas amizades.
 - 😄 pronomes: ele/dele.
 - ⚡ Curiosidade: adoro animes e jogos.
