@@ -17,7 +17,13 @@
   <img align="center" alt="PostgreeSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E7352C?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-380953?style=for-the-badge&logo=Udemy&logoColor=white">
+  <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
+
+# Contato:
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willa._13?igsh=cGV1dXhpajFnaXJm)
@@ -27,10 +33,9 @@
 #
 <!-- Presentation -->
 <p>
-- 👋 Olá, sou um estudante do Brasil em busca de conhecimento.
   
-- 👀 Sou um profissional em constante evolução.
-- 🌱 Atualmente estou aprendendo javaScript, Node.js, Oracle, Inglês, express.js, MongoDB.
+- 👀 Formação em Analise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou aprendendo javaScript, Node.js, Oracle, Inglês, express.js.
 - 💞️ Procuro colaborar na criação de projetos, comunidades e buscar novas amizades.
 - 😄 pronomes: ele/dele.
 - ⚡ Curiosidade: adoro animes e jogos.
@@ -42,7 +47,7 @@
 
   - 💬 Sou um jovem de 19 anos que está a cada dia consolidando os conhecimentos aprendidos e se fortalecendo como um profissional qualificado. Tenho o objetivo de me tornar um desenvolvedor back-end e aplicar minhas habilidades no mundo da programação.
 
-  - ⚡Adoro jogos e animes e acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
+  - ⚡Eu acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
 </details>
 
 ##
