@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ED908&size=35&center=true&vCenter=true&width=1000&lines=Welcome+ladies+and+Gentleman;I'm+19+years+old;I'm+from+Brazil;see+you+later!+:%29)](https://git.io/typing-svg)
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
@@ -43,23 +43,28 @@
   - ⚡Eu acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
 </details>
 
+<!-- Links -->
+<div align="left">
+  
 ## Contato:
 
-<!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willa._13?igsh=cGV1dXhpajFnaXJm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-rodrigues-7517aa259/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian11330@gmail.com)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=xXWilliaN12Xx&show_icons=true&theme=chartreuse-dark)
+</div>
 
-![Variable Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXWilliaN12Xx&theme=blue-green
-)
+
+<!-- GithubStats -->
+<div align="center">
+
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=xXWilliaN12Xx&show_icons=true&theme=chartreuse-dark)
+![Variable Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXWilliaN12Xx&theme=blue-green)
+
+</div>
 
 <div align="center" >
 
-# Grafico
-   
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/xXWilliaN12Xx?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green) 
 
 </div>   
