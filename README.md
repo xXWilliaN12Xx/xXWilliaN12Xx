@@ -7,8 +7,6 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-
-
 <!-- Skills: Programming Languages -->
 <div style="display: inline_block"><br/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -70,13 +68,16 @@
 </div>   
 
 <!-- Portfolio -->
+<div align="left">
+  
 ## Portfolio:
 
 - [![age identifier](https://img.shields.io/badge/AgeIdentifier%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Identificador-de-idade)
-
+  
 - [![API weather](https://img.shields.io/badge/APIweather%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/API-Clima)
 
 - [![100 DAYS OF COD](https://img.shields.io/badge/100DaysOfCod%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/100DAYSOFCOD-JS)
 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=120&section=footer"/>
