@@ -36,7 +36,7 @@
 <details>
 <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Sou um jovem de 19 anos que está a cada dia consolidando os conhecimentos aprendidos e se fortalecendo como um profissional qualificado. Tenho o objetivo de me tornar um desenvolvedor back-end e aplicar minhas habilidades no mundo da programação.
+  - 💬 Sou um jovem de 19 anos que está a cada dia consolidando os conhecimentos aprendidos e se fortalecendo como profissional qualificado. Tenho o objetivo de me tornar um desenvolvedor back-end e aplicar minhas habilidades no mundo da programação.
 
   - ⚡Eu acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
 </details>
@@ -56,14 +56,14 @@
 <!-- GithubStats -->
 <div align="center">
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=xXWilliaN12Xx&show_icons=true&theme=chartreuse-dark)
-![Variable Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXWilliaN12Xx&theme=blue-green)
+![xXWilliaN12Xx GitHub stats](https://github-readme-stats.vercel.app/api?username=xXWilliaN12Xx&show_icons=true&theme=chartreuse-dark)
+![xXWilliaN12Xx Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXWilliaN12Xx&theme=blue-green)
 
 </div>
 
 <div align="center" >
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/xXWilliaN12Xx?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green) 
+![xXWilliaN12Xx github activity graph](https://ssr-contributions-svg.vercel.app/_/xXWilliaN12Xx?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green) 
 
 </div>   
 
