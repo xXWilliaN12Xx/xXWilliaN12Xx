@@ -72,11 +72,14 @@
   
 ## Portfolio:
 
-- [![age identifier](https://img.shields.io/badge/AgeIdentifier%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Identificador-de-idade)
-  
 - [![API weather](https://img.shields.io/badge/APIweather%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/API-Clima)
 
+- [![Gerenciamento de usuários](https://img.shields.io/badge/GRUD%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Gerenciamento-de-usuarios)
+
 - [![100 DAYS OF COD](https://img.shields.io/badge/100DaysOfCod%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/100DAYSOFCOD-JS)
+
+- [![age identifier](https://img.shields.io/badge/AgeIdentifier%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Identificador-de-idade)
+  
 
 </div>
 
