@@ -74,7 +74,9 @@
 
 - [![API weather](https://img.shields.io/badge/APIweather%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/API-Clima)
 
-- [![Gerenciamento de usuários](https://img.shields.io/badge/GRUD%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Gerenciamento-de-usuarios)
+- [![Gerenciamento de usuários](https://img.shields.io/badge/GerenciamentoDeUsuarios%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Gerenciamento-de-usuarios)
+
+- [![Agendamento de consultas](https://img.shields.io/badge/AgendamentoDeConsultas%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/API-agendamento-de-Consultas)
 
 - [![100 DAYS OF COD](https://img.shields.io/badge/100DaysOfCod%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/100DAYSOFCOD-JS)
 
