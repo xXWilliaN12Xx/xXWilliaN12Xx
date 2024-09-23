@@ -41,10 +41,11 @@
   - ⚡Eu acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
 </details>
 
+#
 <!-- Links -->
-<div align="left">
-  
-## Contato:
+<div align="center">
+
+### Contato:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willa._13?igsh=cGV1dXhpajFnaXJm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-rodrigues-7517aa259/)
@@ -52,6 +53,7 @@
 
 </div>
 
+#
 
 <!-- GithubStats -->
 <div align="center">
@@ -67,6 +69,7 @@
 
 </div>   
 
+#
 <!-- Portfolio -->
 <div align="left">
   
@@ -81,7 +84,6 @@
 - [![100 DAYS OF COD](https://img.shields.io/badge/100DaysOfCod%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/100DAYSOFCOD-JS)
 
 - [![age identifier](https://img.shields.io/badge/AgeIdentifier%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/Identificador-de-idade)
-  
 
 </div>
 
