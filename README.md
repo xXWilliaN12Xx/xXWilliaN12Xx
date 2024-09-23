@@ -21,7 +21,7 @@
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-#
+---
 <!-- Presentation -->
 <p>
   
@@ -41,7 +41,7 @@
   - ⚡Eu acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
 </details>
 
-#
+---
 <!-- Links -->
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 </div>
 
-#
+---
 
 <!-- GithubStats -->
 <div align="center">
@@ -69,11 +69,11 @@
 
 </div>   
 
-#
+---
 <!-- Portfolio -->
 <div align="left">
   
-## Portfolio:
+### **Portfolio**:
 
 - [![API weather](https://img.shields.io/badge/APIweather%3F-up-green.svg)](https://github.com/xXWilliaN12Xx/API-Clima)
 
