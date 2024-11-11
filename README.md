@@ -7,6 +7,8 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+
+<div align="center">
 <!-- Skills: Programming Languages -->
 <div style="display: inline_block"><br/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -19,6 +21,8 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E7352C?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-380953?style=for-the-badge&logo=Udemy&logoColor=white">
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+
 </div>
 
 ---
