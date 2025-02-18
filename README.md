@@ -30,7 +30,7 @@
 <p>
   
 - 👀 Formação em Analise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo javaScript, Node.js, Oracle, Inglês, express.js.
+- 🌱 Atualmente estou aprendendo javaScript, Node.js, Inglês, express.js.
 - 💞️ Procuro colaborar na criação de projetos, comunidades e buscar novas amizades.
 - 😄 pronomes: ele/dele.
 - ⚡ Curiosidade: adoro animes e jogos.
