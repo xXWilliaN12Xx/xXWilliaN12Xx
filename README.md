@@ -7,8 +7,11 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
+---
 
 <div align="center">
+  
+### Tecnologias
 <!-- Skills: Programming Languages -->
 <div style="display: inline_block"><br/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -19,9 +22,18 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E7352C?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### Plataformas de estudo
+
   <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-380953?style=for-the-badge&logo=Udemy&logoColor=white">
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</div>
 
 </div>
 
@@ -30,7 +42,7 @@
 <p>
   
 - 👀 Formação em Analise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo javaScript, Node.js, Inglês, express.js.
+- 🌱 Atualmente estou aprendendo javaScript, Node.js, Inglês.
 - 💞️ Procuro colaborar na criação de projetos, comunidades e buscar novas amizades.
 - 😄 pronomes: ele/dele.
 - ⚡ Curiosidade: adoro animes e jogos.
