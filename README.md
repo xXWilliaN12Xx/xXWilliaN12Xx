@@ -41,18 +41,18 @@
 <!-- Presentation -->
 <p>
   
-- 👀 Formação em Analise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo python, RPA, Inglês.
-- 💞️ Procuro colaborar na criação de projetos, comunidades e buscar novas amizades.
-- 😄 pronomes: ele/dele.
-- ⚡ Curiosidade: adoro animes e jogos.
+- Formação em Analise e Desenvolvimento de Sistemas.
+- Atualmente estou aprendendo C#, SAP b1, Inglês.
+- Procuro me concentrar na criação de projetos e aprimorar meu conhecimentos.
+- pronomes: ele/dele.
+- Curiosidade: adoro animes e jogos.
 </p>
 
 <!-- Dropdown -->
 <details>
 <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Sou um jovem de 20 anos que está a cada dia consolidando os conhecimentos aprendidos e se fortalecendo como profissional qualificado. Tenho o objetivo de me tornar um desenvolvedor back-end e aplicar minhas habilidades no mundo da programação.
+  - 💬 Sou um jovem de 20 anos que está a cada dia consolidando os conhecimentos aprendidos e se fortalecendo como profissional qualificado. Tenho o objetivo de me tornar um desenvolvedor de alto nivel e aplicar minhas habilidades no mundo da programação.
 
   - ⚡Eu acredito que a base do sucesso é a persistência e a vontade de crescer sempre, sei que você que está lendo também acredita nisso.
 </details>
