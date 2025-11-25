@@ -78,12 +78,6 @@
 
 ---
 
-<!-- GithubStats -->
-<div align="center">
-
-![xXWilliaN12Xx GitHub stats](https://github-readme-stats.vercel.app/api?username=xXWilliaN12Xx&show_icons=true&theme=chartreuse-dark)
-![xXWilliaN12Xx Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXWilliaN12Xx&theme=blue-green)
-
 </div>
 
 <div align="center" >
