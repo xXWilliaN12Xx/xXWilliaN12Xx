@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=140&section=header&text=Willian%20Rodrigues&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20C%23%20%7C%20SAP%20Business%20One&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=140&section=header&text=Willian%20Rodrigues&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20C%23%20%7C%20SAP%20Business%20One&descAlignY=60&descAlign=50"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/willian-rodrigues-7517aa259/">
@@ -94,4 +94,4 @@ Olá! Sou **Willian**, desenvolvedor com formação em **Análise e Desenvolvime
   <img src="https://count.getloli.com/@:xXWilliaN12Xx?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer"/>
