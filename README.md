@@ -88,10 +88,13 @@
 
 ---
 
-## 👁️ Visitantes
+
 
 <div align="center">
-  <img src="https://count.getloli.com/@:xXWilliaN12Xx?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"/>
+  
+  ## 👁️ Visitantes
+  
+  <img src="https://count.getloli.com/@:xXWilliaN12Xx?theme=nixietube&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer"/>
