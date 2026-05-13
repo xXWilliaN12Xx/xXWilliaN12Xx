@@ -82,6 +82,8 @@ Olá! Sou **Willian**, desenvolvedor com formação em **Análise e Desenvolvime
   
   <img src="https://img.shields.io/badge/Udemy-380953?style=for-the-badge&logo=Udemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP%20Learning-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
 
 ---
