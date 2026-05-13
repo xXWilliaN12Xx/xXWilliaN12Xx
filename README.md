@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Willian**, desenvolvedor com formação em **Análise e Desenvolvimento de Sistemas**, atuando com **C#** e **SAP Business One**. Comprometido com a construção de soluções robustas e com o crescimento contínuo como profissional de tecnologia.
+**Desenvolvedor** com formação em **Análise e Desenvolvimento de Sistemas**, atuando com **C#** e **SAP Business One**. Comprometido com a construção de soluções robustas e com o crescimento contínuo como profissional de tecnologia.
 
 - 🏢 Trabalhando atualmente com **C#** e **SAP B1**
 - 📚 Em constante aprendizado de **inglês técnico** para o mercado global
